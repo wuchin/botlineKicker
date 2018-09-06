@@ -12,7 +12,7 @@ line= LINE(LINE_EMAIL, LINE_PASS)
 
 oepoll = OEPoll(line)
 
-prohibitedWords = ['Asu', 'Jancuk', 'Tai']
+prohibitedWords = ['翻群', '炸群', '邀機']
 userTemp = {}
 userKicked = []
 
